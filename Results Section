@@ -1,0 +1,14 @@
+## Project Outcome
+
+The enterprise network was successfully implemented and tested.
+
+Key achievements included:
+
+- Successful VLAN segmentation
+- Secure access port configuration
+- Redundant switching infrastructure using STP
+- Dynamic route exchange through EIGRP
+- Backup routing through floating static routes
+- Full connectivity between Hamilton and Raglan sites
+- Resolution of all reported network faults
+- Successful end-to-end verification testing
