@@ -1,0 +1,14 @@
+## Project Objectives
+
+- Configure enterprise device naming standards
+- Implement VLAN segmentation for departmental separation
+- Configure VTP for centralized VLAN management
+- Establish trunk links between switches
+- Implement management and native VLANs
+- Configure secure access ports using port security
+- Implement STP load balancing for network redundancy
+- Configure EIGRP routing between sites
+- Implement backup static routes
+- Configure default routing to the ISP
+- Verify end-to-end connectivity
+- Troubleshoot and resolve network communication issues
